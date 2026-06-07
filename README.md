@@ -12,7 +12,7 @@ Transformando dados em decisões e tecnologia em resultados.
 
 ## 👨‍💻 Sobre Mim
 
-Atualmente em transição para a área de Dados, cursando sistemas de informação e aluno da EBAC no curso de analista de dados em 2026, participei da academia do programador fullstack em 2024 e combino experiência comercial e administrativa com análise de dados, automação e inteligência artificial.
+Atualmente em transição para a área de Dados, cursando sistemas de informação e aluno da EBAC no curso de analista de dados, participei da academia do programador fullstack em 2024 e combino experiência comercial e administrativa com análise de dados, automação e inteligência artificial.
 
 📊 Experiência com indicadores comerciais e gestão
 
