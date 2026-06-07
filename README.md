@@ -12,7 +12,7 @@ Transformando dados em decisões e tecnologia em resultados.
 
 ## 👨‍💻 Sobre Mim
 
-Atualmente em transição para a área de Dados, combinando experiência comercial e administrativa com análise de dados, automação e inteligência artificial.
+Atualmente em transição para a área de Dados, cursando sistemas de informação e aluno da EBAC no curso de analista de dados em 2026, participei da academia do programador fullstack em 2024 e combino experiência comercial e administrativa com análise de dados, automação e inteligência artificial.
 
 📊 Experiência com indicadores comerciais e gestão
 
@@ -53,14 +53,14 @@ Atualmente em transição para a área de Dados, combinando experiência comerci
 
 ## 🚀 Projetos em Destaque
 
-### 📈 Análise Comercial Inteligente
+### 📈 Análise Comercial Inteligente - em desenvolvimento
 Projeto focado em indicadores de vendas, faturamento e performance comercial.
 
 **Tecnologias:** Python • SQL • Power BI
 
 ---
 
-### 🤖 IA + Dados
+### 🤖 IA + Dados - em desenvolvimento
 Sistema capaz de responder perguntas sobre indicadores empresariais utilizando Inteligência Artificial.
 
 **Tecnologias:** Python • OpenAI • Streamlit
@@ -71,14 +71,6 @@ Sistema capaz de responder perguntas sobre indicadores empresariais utilizando I
 Projeto para gerenciamento e acompanhamento de leituras.
 
 **Tecnologias:** Python • Git • GitHub
-
----
-
-## 📊 GitHub Analytics
-
-![stats](https://github-readme-stats.vercel.app/api?username=Lucas-Thiesen&show_icons=true&theme=tokyonight)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Thiesen&layout=compact&theme=tokyonight)
 
 ---
 
