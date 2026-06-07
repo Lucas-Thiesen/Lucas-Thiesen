@@ -94,11 +94,11 @@ Projeto para gerenciamento e acompanhamento de leituras.
 
 ## 📚 Atualmente Estudando
 
-Análise de dados e automação
-Supabase
-Railway
-Inglês
-Sistemas de informação
+- Análise de dados e automação
+- Supabase
+- Railway
+- Inglês
+- Sistemas de informação
 
 
 
